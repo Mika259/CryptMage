@@ -7,6 +7,12 @@ git clone https://github.com/mika259/CryptMage
 - Just type at the terminal with a simple command.<br>
 - Make sure you already installed python version 3 in your computer.
 
+# Open Folder File
+```bash
+cd CryptMage
+```
+
+\\ this next step you're pro right
 # Quick Command
 ```bash
 python3 cr.py
