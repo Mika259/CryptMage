@@ -6,6 +6,8 @@ git clone https://github.com/mika259/CryptMage
 - Linux/Termux/Ubuntu/Windows10,7,8,9.
 - Just type at the terminal with a simple command.<br>
 - Make sure you already installed python version 3 in your computer.
+<img src="Screenshot_2024-04-17-01-28-27-864_com.termux-edit.jpg">
+
 
 # Open Folder File
 ```bash
