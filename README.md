@@ -1,5 +1,4 @@
-
-<h2>USAGE</h2>
+# USAGE
 ```shell
 git clone https://github.com/mika259/CryptMage
 ```
