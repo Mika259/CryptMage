@@ -7,7 +7,7 @@ git clone https://github.com/mika259/CryptMage
 - Just type at the terminal with a simple command.<br>
 - Make sure you already installed python version 3 in your computer.
 <img src="Screenshot_2024-04-17-01-28-27-864_com.termux-edit.jpg">
-
+- don't ask me why like that, just a psiko vision huhu.
 
 # Open Folder File
 ```bash
